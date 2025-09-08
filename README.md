@@ -1,6 +1,5 @@
 <h1>Hi, I'm Elias! <br/>
-<a href="https://github.com/eliaschee">Student</a>, 
-<a href="https://www.linkedin.com/in/eliaschee/">Cybersecurity Professional</a>, 
+Student, Cybersecurity Professional
 </h1>
 
 <h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
@@ -9,7 +8,7 @@
   - [Proxmox + TrueNAS + Wazuh: Multi-node homelab with SIEM, SMB shares, and VMs](#)  
   - [Matrix Secure Messaging Server Deployment](#)  
 - <b>ESP32 / IoT Projects</b>  
-  - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](./cerabuddy/README.md) 
+  - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](https://github.com/eliaschee/cerabuddy)  
 - <b>Cybersecurity & Networking</b>  
  
 
@@ -38,5 +37,3 @@
 
 [linkedin]: https://www.linkedin.com/in/eliaschee  
 [github]: https://github.com/eliaschee  
-
----
