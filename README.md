@@ -1,4 +1,7 @@
-<h1>Hi, I'm Elias! <br/><a href="https://github.com/eliaschee">Student</a>, <a href="https://www.linkedin.com/in/eliaschee/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Elias! <br/>
+<a href="https://github.com/eliaschee">Student</a>, 
+<a href="https://www.linkedin.com/in/eliaschee/">Cybersecurity Professional</a>, 
+</h1>
 
 <h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
 
@@ -21,8 +24,7 @@
 
 <h2>📝 Notes</h2>
 
-- CompTIA Security+ Notes
-
+- [CompTIA Security+ Notes](https://github.com/eliaschee/CompTIA-SecurityPlus-Notes)  
 
 <h2>📺 Featured Content</h2>
 
@@ -38,17 +40,3 @@
 [github]: https://github.com/eliaschee  
 
 ---
-
-<!--
-**eliaschee/eliaschee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on building out my homelab and ESP32 projects  
-- 🌱 I’m learning advanced cybersecurity practices and automation with PowerShell & Python  
-- 👯 I’m looking to collaborate on open-source security tools and IoT projects  
-- 🤔 I’m looking for help with advanced LVGL UI design on ESP32  
-- 💬 Ask me about cybersecurity, homelabs, and IoT tinkering  
-- 📫 How to reach me: see links above  
-- ⚡ Fun fact: I daily-drive an MX-5 and love car electronics projects  
--->
