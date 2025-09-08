@@ -9,7 +9,8 @@ Student, Cybersecurity Professional
   - TrueNAS storage with SMB shares  
   - Wazuh SIEM deployment  
   - Virtual machines and containerized services  
-  - Matrix secure messaging server  
+  - Matrix secure messaging server
+  - LLMs
 
 - <b>ESP32 / IoT Projects</b>  
   - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](https://github.com/eliaschee/cerabuddy)  
