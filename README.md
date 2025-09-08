@@ -12,7 +12,7 @@ Student, Cybersecurity Professional
   - Matrix secure messaging server
   - LLMs
 
-- <b>ESP32 / IoT Projects</b>  
+- <b>IoT Projects</b>  
   - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](https://github.com/eliaschee/cerabuddy)  
 
 - <b>Cybersecurity & Networking</b>  
