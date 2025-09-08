@@ -21,8 +21,8 @@
 
 <h2>📝 Notes</h2>
 
-- Space for personal notes, study summaries, and documentation  
-- (Can be linked to repos or markdown files in this profile later)  
+- CompTIA Security+ Notes
+
 
 <h2>📺 Featured Content</h2>
 
