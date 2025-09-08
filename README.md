@@ -9,7 +9,7 @@
   - [Proxmox + TrueNAS + Wazuh: Multi-node homelab with SIEM, SMB shares, and VMs](#)  
   - [Matrix Secure Messaging Server Deployment](#)  
 - <b>ESP32 / IoT Projects</b>  
-  - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](#)  
+  - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](./cerabuddy/README.md) 
 - <b>Cybersecurity & Networking</b>  
  
 
