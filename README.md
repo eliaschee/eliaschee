@@ -5,10 +5,15 @@ Student, Cybersecurity Professional
 <h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
 
 - <b>Homelab Infrastructure</b>  
-  - [Proxmox + TrueNAS + Wazuh: Multi-node homelab with SIEM, SMB shares, and VMs](#)  
-  - [Matrix Secure Messaging Server Deployment](#)  
+  - Proxmox multi-node cluster  
+  - TrueNAS storage with SMB shares  
+  - Wazuh SIEM deployment  
+  - Virtual machines and containerized services  
+  - Matrix secure messaging server  
+
 - <b>ESP32 / IoT Projects</b>  
   - [Ceramic Coating Buddy (ESP32-S3 with LVGL UI)](https://github.com/eliaschee/cerabuddy)  
+
 - <b>Cybersecurity & Networking</b>  
  
 
