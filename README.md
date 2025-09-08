@@ -35,7 +35,7 @@
 
 ---
 
-## 🏴‍☠️ CTF Writeups (Caesar Creek)
+## 🏴‍☠️ CTF Writeups
 
 - **Monoceros** — reversed zlib’d memory segment, rebuilt decoder logic in Python.  
   <a href="https://github.com/eliaschee/CTFs/blob/main/CaesarCreek/Monoceros/Writeup.md">Read →</a>
