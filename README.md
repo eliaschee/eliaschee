@@ -19,8 +19,10 @@ Student, Cybersecurity Professional
 
 <h2>🏴‍☠️ CTF Challenges</h2>
 
-- <b>Reverse Engineering</b>  
-  - Caesar Creek Software CTFs  
+- <b>Caesar Creek Software Reverse Engineering Challenges</b>  
+  - [Monoceros](./CaesarCreek/Monoceros/Writeup.md)  
+  - [CONFICKER-19](./CaesarCreek/CONFICKER-19/Writeup.md)  
+  - [Are You Ready?](./CaesarCreek/AreYouReady/Writeup.md)  
 
 <h2>🎓 Certifications</h2>
 
