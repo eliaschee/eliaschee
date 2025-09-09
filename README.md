@@ -35,6 +35,13 @@
 
 ---
 
+## 📰 Cyber News & Event Writeups
+
+- **September 2025 npm Supply Chain Attack** — analysis of the phishing, malicious payload, and remediation steps.  
+  <a href="https://github.com/eliaschee/September-2025-npm-Supply-Chain-Attack">Read →</a>
+
+---
+
 ## 🏴‍☠️ CTF Writeups
 
 - **Monoceros** — reversed zlib’d memory segment, rebuilt decoder logic in Python.  
